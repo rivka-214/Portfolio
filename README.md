@@ -12,7 +12,7 @@
 - שילוב אלגוריתם לזיהוי תמונות וניתוב מתנדבים.
 - עבודה עם **SQL Server** ומבנה נתונים מורכב.
 
-🔗 [לצפייה בקוד >>](https://github.com/yourusername/emergency-calls-system)
+🔗 [לצפייה בקוד >>](https://github.com/rivka-214/emergency-calls-system)
 
 ---
 
@@ -21,14 +21,14 @@
 - צד שרת: Node.js + RESTful API.
 - ניהול טפסים, משתמשים והזמנות.
 
-🔗 [לצפייה בקוד >>](https://github.com/yourusername/photographers-site)
+🔗 [לצפייה בקוד >>](https://github.com/rivka-214/photographers-site)
 
 ---
 
                                             ### 🎮 Magic – משחק אינטראקטיבי מבוסס JavaScript (2024)
 - שלבים, לוגיקה בזמן אמת, דינמיקה של תנועה.
 
-🔗 [לצפייה בקוד >>](https://github.com/yourusername/magic-game)
+🔗 [לצפייה בקוד >>](https://github.com/rivka-214/magic-game)
 
 ---
 
@@ -36,7 +36,7 @@
 - אתר תדמיתי עם תוכן, גלריה וטפסים.
                                                                               - HTML/CSS רספונסיבי.
 
-🔗 [לצפייה בקוד >>](https://github.com/yourusername/culinary-school-site)
+🔗 [לצפייה בקוד >>](https://github.com/rivka-214/culinary-school-site)
 
 ---
 
