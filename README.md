@@ -10,7 +10,7 @@
 🔗 [לצפייה בקוד >>](https://github.com/rivka-214/photographers-site)
 ###
                                                                        🎮 Magic – משחק אינטראקטיבי מבוסס JavaScript (2024)
-🔗 [לצפייה בקוד >>](https://github.com/rivka-214/magic-game)
+🔗 [לצפייה בקוד >>](https://github.com/rivka-214/Magic-Project)
 
 ### 🧁 אתר למוסד קולינרי (2024)
 🔗 [לצפייה בקוד >>](https://github.com/rivka-214/culinary-school-site)
