@@ -16,7 +16,7 @@ A complete system for managing emergency calls, sending real-time alerts to volu
 
 ### 📸 Photographers’ Website – Dynamic and Engaging (2024)  
 A modern portfolio website for photographers, with an admin panel and a stunning gallery display.  
-[📂 View Code](https://github.com/rivka-214/photographers-site)
+[📂 View Code](https://github.com/rivka-214/Magic-Project.git)
 
 ---
 
